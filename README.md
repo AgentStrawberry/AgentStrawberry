@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AgentStrawberry
+- 👋 Hi, I’m @AgentStrawberry and my pronouns are he/him
 - 👀 I’m interested in Coding, Parkour
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on Code, Minecraft Servers
